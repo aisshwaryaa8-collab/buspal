@@ -1,0 +1,7 @@
+{
+  "name": "BusPal",
+  "description": "Real-time MTC Chennai bus tracking with AI-powered crowd prediction and spatial intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
